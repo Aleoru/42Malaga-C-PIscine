@@ -34,7 +34,7 @@ void    skyscraper(char *numarray)
     {
         rowleft[posarray] = numarray[posptr] - '0';
         /* rowleft[posarray] = rowleft[posarray] + '0';
-        write(1, &rowleft[posarray], 1); */
+        write(1, &rowleft[posarray], 1);*/
         posarray++;
         posptr++;
     }

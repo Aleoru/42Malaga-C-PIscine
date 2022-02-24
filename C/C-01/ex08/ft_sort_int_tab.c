@@ -14,7 +14,7 @@ void	ft_sort_int_tab(int *tab, int size);
 
 void	ft_sort_int_tab(int *tab, int size)
 {
-	int check;
+	int	check;
 	int	aux;
 	int	x;
 	int	y;
