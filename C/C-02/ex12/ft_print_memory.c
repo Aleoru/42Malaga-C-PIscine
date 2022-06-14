@@ -1,1 +1,0 @@
-/* No le veo la gracia.jpg */
