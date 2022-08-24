@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 char	*ft_strstr(char *str, char *tofind);
-int		ft_strcmp(char *s1, char *s2);
 
 char	*ft_strstr(char *str, char *to_find)
 {
